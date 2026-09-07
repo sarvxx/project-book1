@@ -1,1 +1,14 @@
+html
+html
+head
+title
 
+body 
+p
+
+hr
+br
+ i
+ b
+ u
+ 
